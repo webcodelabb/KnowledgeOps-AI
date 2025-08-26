@@ -1,4 +1,4 @@
-# 🚀 KnowledgeOps AI
+#  KnowledgeOps AI
 
 End-to-end document intelligence platform: ingest → embed → retrieve → answer → monitor.
 

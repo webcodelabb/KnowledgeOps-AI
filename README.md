@@ -2,7 +2,7 @@
 
 End-to-end document intelligence platform: ingest → embed → retrieve → answer → monitor.
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
   <img src="docs/img1.png" alt="Main Dashboard" width="45%" />
